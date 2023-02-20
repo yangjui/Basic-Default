@@ -1,5 +1,15 @@
 # Basic Default
  
+ 
+ 플레이어
+ - WASD 앞,뒤,좌,우
+ - Tab 상호작용
+ - SpaceBar 점프
+ 
+ 포탈
+ 네브매쉬
+ 
+ 
  기본 화면
  
  
